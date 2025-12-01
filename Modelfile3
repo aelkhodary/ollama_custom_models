@@ -1,0 +1,3 @@
+FROM qwen3
+
+SYSTEM Your task is to think and resolve any problem and provide aproper answer after thinking good.
